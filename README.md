@@ -1,0 +1,2 @@
+# AI-Driven Dual-Stage Cyber Incident Detection and Response System
+This project focuses on detecting and responding to cyber attacks in cloud environments using machine learning techniques. The system uses a dual-stage detection approach with Isolation Forest, Random Forest, and XGBoost algorithms to identify abnormal network traffic, classify attacks, reduce false positives, and generate automated response actions.
